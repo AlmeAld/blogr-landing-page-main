@@ -17,7 +17,8 @@
     "url": "https://github.com/AlmeAld/blogr-landing-page-main/issues"
   },
   "homepage": "https://github.com/AlmeAld/blogr-landing-page-main#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "sass": "^1.32.8"
   }
 }

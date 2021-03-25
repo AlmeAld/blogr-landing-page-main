@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+//primary
+$light-red-color: hsl(356, 100%, 66%);
+$lighter-red-color: hsl(355, 100%, 74%);
+$dark-blue-color: hsl(208, 49%, 24%);
+//neutral
+$white-color: hsl(0, 0%, 100%);
+$grayish-blue-color: hsl(240, 2%, 79%);
+$dark-blue-color: hsl(240, 2%, 79%);
+$darkest-blue-color: hsl(240, 10%, 16%);
+//background gradient
+$light-red-color: hsl(13, 100%, 72%);
+$red-color: hsl(353, 100%, 62%);
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}

@@ -1,1 +1,1 @@
-{"version":3,"sources":["index.js"],"names":["alert"],"mappings":";AAAAA,MAAM","file":"index.js","sourceRoot":"..","sourcesContent":["alert(\"hi\");\n"]}
+{"version":3,"sources":["index.js"],"names":["alert"],"mappings":";AAAAA,MAAM","file":"index.js","sourceRoot":"..","sourcesContent":["alert(\"lala lalalalalal\");\n// import \"./style.scss\";\n"]}

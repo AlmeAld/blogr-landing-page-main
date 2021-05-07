@@ -1,2 +1,2 @@
-alert("hi");
-import "./style.scss";
+alert("lala lalalalalal");
+// import "./style.scss";

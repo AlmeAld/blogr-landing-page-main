@@ -19,6 +19,8 @@
   "homepage": "https://github.com/AlmeAld/blogr-landing-page-main#readme",
   "dependencies": {},
   "devDependencies": {
+    "cssnano": "^5.0.2",
+    "postcss": "^8.2.14",
     "sass": "^1.32.8"
   }
 }
